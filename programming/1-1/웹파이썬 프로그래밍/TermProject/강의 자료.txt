@@ -1,0 +1,7 @@
+setup https://www.youtube.com/watch?v=BWk3OZQ5TAw
+mcpi https://hi-coding.tistory.com/2
+isdigit https://m.blog.naver.com/PostView.nhn?blogId=lee95292&logNo=221201880034&proxyReferer=https:%2F%2Fwww.google.com%2F
+import other folder https://velog.io/@devzunky/TIL-no.29-Python-10.-Absolute-Path-Relative-Path
+try except https://dojang.io/mod/page/view.php?id=2398
+url image https://soyoung-new-challenge.tistory.com/92
+rgb https://rgb.to/

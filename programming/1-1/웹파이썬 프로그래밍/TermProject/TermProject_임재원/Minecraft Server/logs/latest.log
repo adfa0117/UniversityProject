@@ -1,0 +1,338 @@
+[20:35:37] [Server thread/INFO]: Loading properties
+[20:35:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-800b93f-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[20:35:38] [Server thread/INFO]: Debug logging is disabled
+[20:35:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:35:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:35:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:35:38] [Server thread/INFO]: Generating keypair
+[20:35:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:35:38] [Server thread/INFO]: Using default channel type
+[20:35:42] [Server thread/WARN]: Plugin RaspberryJuice v1.12.1 does not specify an api-version.
+[20:35:42] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[20:35:42] [Server thread/INFO]: Preparing level "world"
+[20:35:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:35:43] [Server thread/INFO]: Loaded 6 recipes
+[20:35:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:35:44] [Server thread/INFO]: View Distance: 10
+[20:35:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:35:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:35:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:35:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:35:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:35:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:35:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:35:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:35:44] [Server thread/INFO]: Mob Spawn Range: 6
+[20:35:44] [Server thread/INFO]: Max TNT Explosions: 100
+[20:35:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:35:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:35:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:35:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:35:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:35:44] [Server thread/INFO]: View Distance: 10
+[20:35:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:35:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:35:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:35:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:35:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:35:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:35:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:35:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:35:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:35:44] [Server thread/INFO]: Mob Spawn Range: 6
+[20:35:44] [Server thread/INFO]: Max TNT Explosions: 100
+[20:35:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:35:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:35:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:35:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:35:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:35:45] [Server thread/INFO]: View Distance: 10
+[20:35:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:35:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:35:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:35:45] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:35:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:35:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:35:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:35:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:35:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:35:45] [Server thread/INFO]: Mob Spawn Range: 6
+[20:35:45] [Server thread/INFO]: Max TNT Explosions: 100
+[20:35:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:35:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:35:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:35:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:35:45] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[20:35:45] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:45] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:46] [Server-Worker-2/INFO]: Preparing spawn area: 91%
+[20:35:46] [Server thread/INFO]: Preparing spawn area: 97%
+[20:35:46] [Server thread/INFO]: Time elapsed: 1558 ms
+[20:35:46] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[20:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:47] [Server thread/INFO]: Preparing spawn area: 38%
+[20:35:47] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:35:48] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[20:35:48] [Server-Worker-5/INFO]: Preparing spawn area: 98%
+[20:35:48] [Server thread/INFO]: Time elapsed: 2039 ms
+[20:35:48] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[20:35:48] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:49] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[20:35:49] [Server thread/INFO]: Time elapsed: 764 ms
+[20:35:49] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[20:35:49] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[20:35:49] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[20:35:49] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[20:35:49] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[20:35:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:35:49] [Server thread/INFO]: Done (6.551s)! For help, type "help"
+[20:36:25] [User Authenticator #1/INFO]: UUID of player adfa_ is c8fdacbb-31cb-4de2-a50a-4eaf5af4bd19
+[20:36:25] [Server thread/INFO]: Welcome adfa_[m
+[20:36:25] [Server thread/INFO]: adfa_[/127.0.0.1:59781] logged in with entity id 5 at ([world]-167.93353861580437, 4.0, -161.73468602050164)
+[20:39:39] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[20:39:39] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59861.
+[20:39:39] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[20:40:15] [Async Chat Thread - #0/INFO]: <adfa_> help[m
+[20:40:16] [Server thread/INFO]: adfa_님은 아직 등록하지 않으셨습니다 reg를 쳐서 등록해주세요.[m
+[20:40:18] [Async Chat Thread - #0/INFO]: <adfa_> reg[m
+[20:40:18] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[20:40:28] [Async Chat Thread - #0/INFO]: <adfa_> setPos[m
+[20:40:28] [Server thread/INFO]: adfa_님의 좌표가 [5, 0, 13]로 설정되었습니다.[m
+[20:40:31] [Async Chat Thread - #0/INFO]: <adfa_> setSize 500 500[m
+[20:40:32] [Server thread/INFO]: adfa_님의 크기가 [500, 500]로 설정되었습니다.[m
+[20:40:39] [Async Chat Thread - #0/INFO]: <adfa_> print https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.co.kr%2Fpin%2F846184217458072330%2F&psig=AOvVaw0l8G7Vy5BWafKiu4_SNKkK&ust=1592134784947000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDD0rTa_ukCFQAAAAAdAAAAABAD[m
+[20:40:40] [Server thread/INFO]: 이미지를 받아오는데 실패하였습니다. 다시 시도해 보십시오.[m
+[20:40:57] [Async Chat Thread - #0/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[20:41:52] [Async Chat Thread - #0/INFO]: <adfa_> eit[m
+[20:41:54] [Async Chat Thread - #0/INFO]: <adfa_> exit[m
+[20:41:56] [Async Chat Thread - #0/INFO]: <adfa_> Exit[m
+[20:42:00] [Thread-13/INFO]: [RaspberryJuice] Connection reset
+[20:42:00] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59861.
+[20:42:01] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60170.
+[20:42:01] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[20:42:01] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[20:42:07] [Async Chat Thread - #0/INFO]: <adfa_> reg[m
+[20:42:07] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[20:42:08] [Async Chat Thread - #0/INFO]: <adfa_> setPos[m
+[20:42:08] [Server thread/INFO]: adfa_님의 좌표가 [5, 0, 13]로 설정되었습니다.[m
+[20:42:12] [Async Chat Thread - #0/INFO]: <adfa_> setSize 500 500[m
+[20:42:12] [Server thread/INFO]: adfa_님의 크기가 [500, 500]로 설정되었습니다.[m
+[20:42:15] [Async Chat Thread - #0/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[20:42:17] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 19841 to next tick
+[20:42:18] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 17835 to next tick
+[20:42:18] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 15946 to next tick
+[20:42:19] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13679 to next tick
+[20:42:19] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 12125 to next tick
+[20:42:20] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 16637 to next tick
+[20:42:21] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 15534 to next tick
+[20:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[20:42:21] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 15128 to next tick
+[20:42:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPosition{x=5, y=4, z=206} but found not block entity block Block{minecraft:white_concrete} at location
+[20:42:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:white_concrete} but failed at location BlockPosition{x=5, y=4, z=206}
+[20:42:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ PooledBlockPosition{x=6, y=4, z=206} but found not block entity block Block{minecraft:air} at location
+[20:42:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location PooledBlockPosition{x=6, y=4, z=206}
+[20:42:22] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 16010 to next tick
+[20:42:22] [Server thread/WARN]: adfa_ moved too quickly! 11.24093864574246,5.624999510409877,10.424528596952058
+[20:42:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPosition{x=7, y=4, z=200} but found not block entity block Block{minecraft:white_concrete} at location
+[20:42:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:white_concrete} but failed at location BlockPosition{x=7, y=4, z=200}
+[20:42:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ PooledBlockPosition{x=7, y=4, z=201} but found not block entity block Block{minecraft:air} at location
+[20:42:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location PooledBlockPosition{x=7, y=4, z=201}
+[20:42:23] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 25230 to next tick
+[20:42:23] [Server thread/WARN]: adfa_ moved too quickly! 10.183470065701812,7.312512630107872,8.672397553387611
+[20:42:23] [Server thread/WARN]: adfa_ moved too quickly! 8.759047254210145,6.562534537257058,7.472951778017318
+[20:42:24] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 29949 to next tick
+[20:42:25] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 29194 to next tick
+[20:42:26] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 34740 to next tick
+[20:42:27] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 48176 to next tick
+[20:42:28] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 49945 to next tick
+[20:42:29] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 51800 to next tick
+[20:42:30] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 55344 to next tick
+[20:42:31] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 58653 to next tick
+[20:42:31] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 61429 to next tick
+[20:42:32] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 65428 to next tick
+[20:42:33] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 61001 to next tick
+[20:42:35] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 52001 to next tick
+[20:42:35] [Server thread/WARN]: adfa_ moved too quickly! 33.58576190309944,0.0,1.921264159403023
+[20:42:35] [Server thread/WARN]: adfa_ moved too quickly! 32.498332657717924,0.0,1.8803021715026773
+[20:42:35] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 43001 to next tick
+[20:42:36] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 34001 to next tick
+[20:42:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 25001 to next tick
+[20:42:38] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 16001 to next tick
+[20:42:38] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 7001 to next tick
+[20:42:58] [Server thread/INFO]: adfa_ issued server command: /tp ~500 ~ ~500
+[20:42:59] [Server thread/INFO]: [adfa_: Teleported adfa_ to 345.4104113704574, 5.0, 337.19786858210426]
+[20:44:54] [Async Chat Thread - #1/INFO]: <adfa_> exit[m
+[20:44:54] [Server thread/INFO]: 종료합니다.[m
+[21:01:29] [Thread-15/INFO]: [RaspberryJuice] Connection reset
+[21:01:29] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60170.
+[21:01:30] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60586.
+[21:01:30] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[21:01:30] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[21:01:48] [Async Chat Thread - #2/INFO]: <adfa_> reg[m
+[21:01:48] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:01:49] [Async Chat Thread - #2/INFO]: <adfa_> setPos[m
+[21:01:49] [Server thread/INFO]: adfa_님의 좌표가 [541, 0, 363]로 설정되었습니다.[m
+[21:01:54] [Async Chat Thread - #2/INFO]: <adfa_> setSize 500 500[m
+[21:01:54] [Server thread/INFO]: adfa_님의 크기가 [500, 500]로 설정되었습니다.[m
+[21:01:56] [Async Chat Thread - #2/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:03:20] [Thread-17/INFO]: [RaspberryJuice] Connection reset
+[21:03:21] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60622.
+[21:03:21] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[21:03:21] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[21:03:23] [Async Chat Thread - #3/INFO]: <adfa_> reg[m
+[21:03:23] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:03:26] [Async Chat Thread - #3/INFO]: <adfa_> setPos[m
+[21:03:26] [Server thread/INFO]: adfa_님의 좌표가 [547, 0, 361]로 설정되었습니다.[m
+[21:03:30] [Async Chat Thread - #3/INFO]: <adfa_> setSize 100 100[m
+[21:03:30] [Server thread/INFO]: adfa_님의 크기가 [100, 100]로 설정되었습니다.[m
+[21:03:33] [Async Chat Thread - #3/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:03:48] [Thread-19/INFO]: [RaspberryJuice] Connection reset
+[21:03:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60622.
+[21:03:49] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60636.
+[21:03:49] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[21:03:49] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[21:03:51] [Async Chat Thread - #3/INFO]: <adfa_> reg[m
+[21:03:51] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:03:52] [Async Chat Thread - #3/INFO]: <adfa_> setPos[m
+[21:03:52] [Server thread/INFO]: adfa_님의 좌표가 [547, 0, 361]로 설정되었습니다.[m
+[21:03:54] [Async Chat Thread - #3/INFO]: <adfa_> setSize 100 100[m
+[21:03:54] [Server thread/INFO]: adfa_님의 크기가 [100, 100]로 설정되었습니다.[m
+[21:03:55] [Async Chat Thread - #3/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:08:31] [Async Chat Thread - #4/INFO]: <adfa_> setSize 500 500[m
+[21:08:31] [Server thread/INFO]: adfa_님의 크기가 [500, 500]로 설정되었습니다.[m
+[21:08:32] [Async Chat Thread - #4/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:14:06] [Thread-21/INFO]: [RaspberryJuice] Connection reset
+[21:14:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60636.
+[21:14:07] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60817.
+[21:14:07] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[21:14:07] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[21:14:12] [Async Chat Thread - #5/INFO]: <adfa_> reg[m
+[21:14:12] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:14:13] [Async Chat Thread - #5/INFO]: <adfa_> setPos[m
+[21:14:13] [Server thread/INFO]: adfa_님의 좌표가 [648, 0, 504]로 설정되었습니다.[m
+[21:14:18] [Async Chat Thread - #5/INFO]: <adfa_> setSize 500 500[m
+[21:14:18] [Server thread/INFO]: 폭은 최대 320입니다.[m
+[21:14:18] [Server thread/INFO]: 높이는 최대 320입니다.[m
+[21:14:18] [Server thread/INFO]: adfa_님의 크기가 [500, 500]로 설정되었습니다.[m
+[21:14:24] [Async Chat Thread - #5/INFO]: <adfa_> exit[m
+[21:14:25] [Server thread/INFO]: 종료합니다.[m
+[21:14:43] [Thread-23/INFO]: [RaspberryJuice] Connection reset
+[21:14:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60817.
+[21:14:43] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60830.
+[21:14:43] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[21:14:43] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[21:14:45] [Async Chat Thread - #5/INFO]: <adfa_> reg[m
+[21:14:46] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:14:47] [Async Chat Thread - #5/INFO]: <adfa_> setPos[m
+[21:14:47] [Server thread/INFO]: adfa_님의 좌표가 [648, 0, 504]로 설정되었습니다.[m
+[21:14:49] [Async Chat Thread - #5/INFO]: <adfa_> setSize 500 500[m
+[21:14:49] [Server thread/INFO]: 폭은 최대 320입니다.[m
+[21:14:49] [Server thread/INFO]: 높이는 최대 320입니다.[m
+[21:14:49] [Server thread/INFO]: adfa_님의 크기가 [320, 320]로 설정되었습니다.[m
+[21:14:58] [Async Chat Thread - #5/INFO]: <adfa_> setSize 100 200[m
+[21:14:58] [Server thread/INFO]: adfa_님의 크기가 [100, 200]로 설정되었습니다.[m
+[21:15:02] [Async Chat Thread - #5/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:15:19] [Thread-25/INFO]: [RaspberryJuice] Connection reset
+[21:15:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60830.
+[21:15:20] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60837.
+[21:15:20] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[21:15:20] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[21:15:26] [Async Chat Thread - #5/INFO]: <adfa_> reg[m
+[21:15:27] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:15:28] [Async Chat Thread - #5/INFO]: <adfa_> setPos[m
+[21:15:29] [Server thread/INFO]: adfa_님의 좌표가 [648, 0, 504]로 설정되었습니다.[m
+[21:15:31] [Async Chat Thread - #5/INFO]: <adfa_> setSize 100 200[m
+[21:15:31] [Server thread/INFO]: adfa_님의 크기가 [100, 200]로 설정되었습니다.[m
+[21:15:32] [Async Chat Thread - #5/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:16:35] [Thread-27/INFO]: [RaspberryJuice] Connection reset
+[21:16:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60837.
+[21:16:36] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60862.
+[21:16:36] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[21:16:36] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[21:16:47] [Async Chat Thread - #6/INFO]: <adfa_> reg[m
+[21:16:47] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:16:48] [Async Chat Thread - #6/INFO]: <adfa_> setPos[m
+[21:16:48] [Server thread/INFO]: adfa_님의 좌표가 [648, 0, 504]로 설정되었습니다.[m
+[21:16:50] [Async Chat Thread - #6/INFO]: <adfa_> setSize 100 200[m
+[21:16:50] [Server thread/INFO]: adfa_님의 크기가 [100, 200]로 설정되었습니다.[m
+[21:16:51] [Async Chat Thread - #6/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:17:45] [Thread-29/INFO]: [RaspberryJuice] Connection reset
+[21:17:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60862.
+[21:17:46] [Thread-12/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60875.
+[21:17:46] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[21:17:46] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[21:18:01] [Async Chat Thread - #7/INFO]: <adfa_> reg[m
+[21:18:01] [Server thread/INFO]: adfa_님이 등록되었습니다..[m
+[21:18:03] [Async Chat Thread - #7/INFO]: <adfa_> setPos[m
+[21:18:03] [Server thread/INFO]: adfa_님의 좌표가 [648, 0, 504]로 설정되었습니다.[m
+[21:18:07] [Async Chat Thread - #7/INFO]: <adfa_> setSize 500 500[m
+[21:18:07] [Server thread/INFO]: 폭은 최대 320입니다.[m
+[21:18:07] [Server thread/INFO]: 높이는 최대 320입니다.[m
+[21:18:07] [Server thread/INFO]: adfa_님의 크기가 [320, 320]로 설정되었습니다.[m
+[21:18:09] [Async Chat Thread - #7/INFO]: <adfa_> print https://i.pinimg.com/originals/d9/82/f4/d982f4ec7d06f6910539472634e1f9b1.png[m
+[21:22:03] [Thread-31/INFO]: [RaspberryJuice] Connection reset
+[21:22:03] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60875.
+[21:22:05] [Server thread/INFO]: Stopping the server
+[21:22:05] [Server thread/INFO]: Stopping server
+[21:22:05] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.12.1
+[21:22:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60586.
+[21:22:05] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
+[21:22:05] [Server thread/INFO]: Saving players
+[21:22:05] [Server thread/INFO]: adfa_ lost connection: Server closed
+[21:22:05] [Server thread/INFO]: adfa_ left the game
+[21:22:05] [Server thread/INFO]: Saving worlds
+[21:22:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[21:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[21:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
